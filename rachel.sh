@@ -6,3 +6,4 @@ do
 done
  
 #not actually teaching us to program
+ #Why are we not learning R?
