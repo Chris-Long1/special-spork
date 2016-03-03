@@ -1,3 +1,5 @@
+
+# THIS  HAS BEEN AN EXCERCISE IN PAIENCE
 # Calculate reduced stats for data files at J: 100 c/bp
 for datafile in "$@"
 do
